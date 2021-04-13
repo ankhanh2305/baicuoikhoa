@@ -1,0 +1,19 @@
+#anh{
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid black;
+}
+.tieude{
+    color: white;
+    font-family:monospace;
+    font-size: 40px;
+    
+}
+#cumtieude{
+    margin-left: 180px;
+    height: 400px;
+    width: 500px;
+
+}
