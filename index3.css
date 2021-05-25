@@ -1,0 +1,47 @@
+#navv{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 22px;
+    color: white;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    background-color: blue;
+    border: solid black 1px;
+}
+#nav{
+    background-color: blue;
+    padding: px;
+    margin: 0px;   
+}
+.vientrang{
+    border: 2px solid black;
+    margin: 0px 50px 0px 50px;
+    padding-bottom: 20px;
+    
+}
+li a:hover {
+    background-color: darkblue;
+    font-weight: bold;
+    color: white;
+  }
+.muc{
+    margin-left: 10px;
+}
+.xuongdong{
+    display: flex;
+    flex-direction: column;
+    
+}
+.nen{
+    background-color: rgb(14, 169, 241)
+}
+li a{
+ 
+   display: block;
+}
+.bogachchan{
+    text-decoration: none;
+    padding: 10px;
+}
